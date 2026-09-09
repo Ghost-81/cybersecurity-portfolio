@@ -9,8 +9,6 @@ I started my Computer Science journey in 2025 with **CS50 from Harvard**, and I'
 * Web Application Security
 * Penetration Testing
 * Bug Hunting
-* Red Teaming
-* Linux & Networking
 * OWASP Top 10
 
 #  Hands-on Practice
